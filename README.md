@@ -10,7 +10,7 @@
 <hr>
 
 <p align="center">
-  <a href=#>
+  <a href="https://github.com/Sudiptto/onCamp">
     <img src="./Check_out_onCamp-platform.png" width="100%">
   </a>
 </p>
