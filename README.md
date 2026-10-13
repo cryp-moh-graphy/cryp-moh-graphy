@@ -4,10 +4,12 @@
   </a>
 </p>
 
+### Key Technical Contributions for onCamp
+> *All backend architecture, pipeline optimizations, and project roadmaps below were authored and shipped by **Mohammed Uddin** under the collaboration account **[@mcodes450](https://github.com/mcodes450)**.*
 
-## Mohammed Uddin is a product engineer in New York who ships real systems end to end: contracts that settle money, queries that hold under load, designs that carry conviction, and writing that reasons across disciplines.
-
-<br>
+- **[Issue #7](https://github.com/Sudiptto/onCamp/issues/7):** Proposed DeepSeek club filter reliability and cost optimization.
+- **[PR #8](https://github.com/Sudiptto/onCamp/pull/8):** Engineered 22-file backend hardening update including exponential backoff API retries, atomic prompt caching, per-IP rate limiting, and 81 passing unit tests *(Closes #7)*.
+- **[Issue #9](https://github.com/Sudiptto/onCamp/issues/9):** Formulated project execution, 5-phase timeline, and go-to-market strategy.
 
 <p align="center">
   <a href="https://im-engr474-sep26sys.netlify.app">
