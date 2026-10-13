@@ -1,3 +1,10 @@
+<p align="center">
+  <a href=#>
+    <img src="./Check_out_onCamp-platform.png" width="100%">
+  </a>
+</p>
+
+
 ## Mohammed Uddin is a product engineer in New York who ships real systems end to end: contracts that settle money, queries that hold under load, designs that carry conviction, and writing that reasons across disciplines.
 
 <br>
