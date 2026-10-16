@@ -6,9 +6,6 @@
   </h2>
 </div>
 
-<br>
-<hr>
-
 <p align="center">
   <a href="https://github.com/Sudiptto/onCamp">
     <img src="./Check_out_onCamp-platform.png" width="100%">
