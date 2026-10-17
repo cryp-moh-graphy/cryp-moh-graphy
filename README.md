@@ -12,15 +12,17 @@
   </a>
 </p>
 
-<h3 align="center">Key Technical Contributions for onCamp (Full-Stack Application)</h3>
+<h3 align="center">Key Technical Contributions for onCamp (Full-Stack Application; 4-Person Team)</h3>
 
 > **All backend architecture, pipeline optimizations, and project roadmaps below were authored and shipped by Mohammed Uddin under the collaboration account [@mcodes450](https://github.com/mcodes450).**
 
 - **[Issue #7](https://github.com/Sudiptto/onCamp/issues/7):** Proposed DeepSeek club filter reliability and cost optimization.
 - **[PR #8](https://github.com/Sudiptto/onCamp/pull/8):** Engineered 22-file backend hardening update including exponential backoff API retries, atomic prompt caching, per-IP rate limiting, and 81 passing unit tests *(Closes #7)*.
 - **[Issue #9](https://github.com/Sudiptto/onCamp/issues/9):** Formulated project execution, 5-phase timeline, and go-to-market strategy.
+- <sub>[View Mohammed Uddin's **Commits**](https://github.com/Sudiptto/onCamp/commits?author=mcodes450)</sub>
+- <sub>[View Mohammed Uddin's **Pull Requests**](https://github.com/Sudiptto/onCamp/pulls?q=is:pr+author:mcodes450)</sub>
 
-> [View more full-stack application projects →](https://github.com/cryp-moh-graphy/fullstack-product-design)
+[View more full-stack application projects →](https://github.com/cryp-moh-graphy/fullstack-product-design)
 
 <hr>
 
